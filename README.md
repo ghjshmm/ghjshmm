@@ -1,5 +1,11 @@
-## Hi there 👋
+## Ola 👋
 
+#####Sobre HMM
+
+Estudando JavaScript
+
+### Detalhes
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=ghjshmm&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 <!--
 **ghjshmm/ghjshmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
