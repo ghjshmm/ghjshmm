@@ -6,6 +6,11 @@ Estudando JavaScript
 
 ### Detalhes
 [![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=ghjshmm&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Projetos
+
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=ghjshmm&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
 <!--
 **ghjshmm/ghjshmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
